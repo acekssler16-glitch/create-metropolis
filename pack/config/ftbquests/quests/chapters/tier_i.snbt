@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_i"
+	group: ""
+	id: "2661DD6A7A6B76D2"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		icon: {
+			id: "create:andesite_alloy"
+		}
+		id: "71DC36DCCE33D438"
+		tasks: [{
+			count: 5L
+			id: "7A0E5FDDEBE70B7B"
+			item: { count: 1, id: "minecraft:iron_ingot" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

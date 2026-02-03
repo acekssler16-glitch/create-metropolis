@@ -1,0 +1,16 @@
+filename = 'craftingrecipeexporter-1.21.1-NeoForge-1.0.0.jar'
+name = 'Crafting Recipe Exporter'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'dd220b41833ecd917d46f6d79e55fdfc28fbccdf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6509385
+project-id = 1194641
